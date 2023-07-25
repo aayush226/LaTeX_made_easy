@@ -2,6 +2,8 @@
 
 Welcome to the NYU Tandon Bridge Homework Helper! 🙋‍♂️
 
+Use the -> [App](https://aayush226.github.io/LaTeX_made_easy/) <- here
+
 This program is designed to make your homework preparation for the NYU Tandon Bridge program a breeze. No need to spend time learning LaTeX or struggling with complex equations – this Homework Helper allows you to easily create mathematical expressions and symbols. 🙌
 
 With a simple drag-and-drop interface, you can add various LaTeX symbols and equations into the text editor. Whether it's logical operators, set theory symbols or mathematical expressions with subscripts and superscripts, this intuitive interface has got you covered.
